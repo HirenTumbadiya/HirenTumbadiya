@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hiren Tumbadiya</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on [tweetnest](https://github.com/HirenTumbadiya/TweetNest)
+- 🔭 I’m currently working on [filmmaker](https://github.com/HirenTumbadiya/filmmaker)
 
-- 💬 Ask me about **react, next.js, python, ml**
+- 💬 Ask me about **react, next.js, nestjs, python, ml**
 
 - 📫 How to reach me **tumbadiyahiren@gmail.com**
 
