@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [filmmaker](https://github.com/HirenTumbadiya/filmmaker)
 
-- 💬 Ask me about **react, next.js, nestjs, python, ml**
+- 💬 Ask me about **react, next.js, C++, DSA, Rust**
 
 - 📫 How to reach me **tumbadiyahiren@gmail.com**
 
