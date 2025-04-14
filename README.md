@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hiren Tumbadiya</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate software Engineer from India</h3>
 
 - 🔭 I’m currently working on [filmmaker](https://github.com/HirenTumbadiya/filmmaker)
 
