@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hiren Tumbadiya</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
-- 🔭 I’m currently working on [filmmaker](https://github.com/HirenTumbadiya/filmmaker)
+- 🔭 I’m currently learning low level engineering with Rust and Architecture design.
 
-- 💬 Ask me about **react, next.js, C++, DSA, Rust**
+- 💬 Ask me about **React, Next.js, C++, DSA, Rust, TypeScript, JavaScript**
 
 - 📫 How to reach me **tumbadiyahiren@gmail.com**
 
